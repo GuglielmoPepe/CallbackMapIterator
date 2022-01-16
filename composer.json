@@ -15,7 +15,7 @@
         "process-timeout": 0,
         "sort-packages": true
     },
-    "description": "A skeleton for rapid development",
+    "description": "This iterator applies the callback to the elements of the given iterator.",
     "name": "guglielmopepe/callbackmapiterator",
     "homepage": "https://github.com/GuglielmoPepe/CallbackMapIterator",
     "keywords": ["iterator","map iterator","map","callback iterator"],
