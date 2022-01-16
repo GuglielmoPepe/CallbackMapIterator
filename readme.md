@@ -1,4 +1,4 @@
-# Name
+# CallbackMapIterator
 This iterator applies the callback to the elements of the given iterator.
 
 
