@@ -34,7 +34,7 @@ The callback should accept up to three arguments: the current item, the current 
  * @param $current   Current item's value
  * @param $key       Current item's key
  * @param $iterator  Iterator being filtered
- * @return mixed     The value after mapp
+ * @return mixed     The item after it has been applied the callback function
  */
 function my_callback($current, $key, $iterator)
 {
